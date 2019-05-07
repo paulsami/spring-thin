@@ -9,6 +9,6 @@ public class ProductResource {
 	@GetMapping("/")
 	public String get()
 	{
-		return "Hello";
+		return "Hello Sami !!";
 	}
 }
